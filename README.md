@@ -11,7 +11,7 @@
     <div align= "center">
       <div
     <summary>
-<h2>내가 지금 배우는 ...</h2> 
+<h2>내가 지금 배우는 언어</h2> 
 </summary>
    <br>
   
